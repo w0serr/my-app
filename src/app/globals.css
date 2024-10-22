@@ -33,3 +33,17 @@ div.main {
     text-wrap: balance;
   }
 }
+
+.technologies {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+}
+
+.technologies-right {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  max-width: 466px;
+}

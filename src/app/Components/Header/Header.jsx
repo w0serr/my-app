@@ -16,7 +16,7 @@ const Header = () => {
         <div className='header-nav flex items-center gap-1.5'>
             <a href="#" class='p-4 font-sans text-[#22253B] font-normal text-sm'> Чему вы научитесь </a>
             <a href="#" class='p-4 font-sans text-[#22253B] font-normal text-sm'> Процесс обучения </a>
-            <a href="#" class='p-4 font-sans text-[#22253B] font-normal text-sm'> Контакты </a>
+            <a href="#" class='p-4 font-sans text-[#22253B] font-normal text-sm'> Контакты</a>
         </div>
 
         </header>
