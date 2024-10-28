@@ -14,6 +14,22 @@
   }
 }
 
+@media (max-width: 768px) {
+  div.main {
+    padding: 0 16px;
+    max-width: 100%;
+  }
+
+  .technologies {
+    flex-direction: column;
+    gap: 30px; /* Уменьшим промежуток между элементами */
+  }
+
+  .technologies-right {
+    max-width: 100%;
+  }
+}
+
 body {
   color: var(--foreground);
   background: var(--background);
